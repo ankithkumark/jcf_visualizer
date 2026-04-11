@@ -1,4 +1,4 @@
-# Java Collections Visualizer
+# Java Collections Framework Visualizer
 
 Interactive visualization of Java Collections Framework for Competitive Programming.
 
